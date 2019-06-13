@@ -1,0 +1,25 @@
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+# put *your* name and uid here
+name:Zhifeng wang
+uid:u6068466
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: this video teach me the basic principle of space invader
+    url: https://www.youtube.com/watch?v=biN3v3ef-Y0
+    licence: GNU General Public License v3.1
+
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external assets)
+assets:
+  - comment:some images such as junk robot.
+    url: http://getwallpapers.com/collection/moon-and-stars-background
+       : https://soundimage.org/fantasywonder/
+    licence: GNU Lesser General Public License v2.1
+

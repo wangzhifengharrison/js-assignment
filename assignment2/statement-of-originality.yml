@@ -1,0 +1,17 @@
+# https://cs.anu.edu.au/courses/comp1720/resources/faq/#statement-of-originality
+
+# put *your* name and uid here
+name:zhifeng wang
+uid:u6068466
+
+declaration: >-
+  I declare that everything I have submitted in this assignment is entirely my
+  own work, with the following exceptions:
+
+# add as many "url+licence+comment" entries as necessary
+# (or remove it altogether if you haven't used any external code)
+code:
+  - comment: it is a good example to tell me how to use the mousepressed and mouse clicked
+    url: https://p5js.org/reference/#/p5/mousePressed
+    licence: GNU Lesser General Public License v2.1
+
