@@ -1,4 +1,1 @@
-# Projects
-# Projects
-# Projects
-# Projects
+This assignment is for Javascript project in ANU.
